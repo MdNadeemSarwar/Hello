@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "10nnmmmn Static Web Apps 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Cdfghfhhfdh dnghnnnghngfhn.",
+    url: "https://github.com/MdNadeemSarwar/Face-Recognition-Attendance-System",
   },
   {
     title: "Web Development for Beginners",
